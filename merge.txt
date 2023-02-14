@@ -10,3 +10,5 @@ a partir de esta linea sera texto de la subrama
 realizaremos otro commit antes de realizar el merge
 aqui sigo escribiendo unas cositas mas antes del merge
 liiiissstooooosssss para el mergeeeeeeee
+
+El merge fue exitoso aunque con algunos problemas XD
