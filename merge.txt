@@ -1,2 +1,3 @@
 hola este es el archivo main al que se le añadira una subrama con el comando merge
 ahora crearemos una subrama a partir de este commit
+aqui sigo haciendo cambios a la rama main
