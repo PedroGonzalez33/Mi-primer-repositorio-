@@ -3,3 +3,8 @@ ahora crearemos una subrama a partir de este commit
 aqui sigo haciendo cambios a la rama main
 escribire dos lineas mas antes del merge con la subrama
 ultima linea para el merge
+
+
+a partir de esta linea sera texto de la subrama
+realizaremos otro commit antes de realizar el merge
+aqui sigo escribiendo unas cositas mas antes del merge
